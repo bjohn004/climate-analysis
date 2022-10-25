@@ -1,8 +1,4 @@
-# HOMEWORK 10
-***
-
-### This repo contains the homework for assignment 10
-***
+This repo contains an analysis on climate findings. It utilized Jupyter Notebooks/Pandas and a Flask app.py utilizing SQLalchemy.
 
 Please note that the repo consists of the following:
 
